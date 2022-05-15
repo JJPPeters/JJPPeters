@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/JJPPeters/JJPPeters/blob/main/images/banner.svg" alt="header"/>
 </div>
 
-<h2 align="center">Who?</h2>
+<h2 align="center">🎓 Who?</h2>
 
 A researcher passionate about all things electron microscopy. Creator of new hardware and software to increase capabilties and sustainability of electron microscopes, with experience in high-speed electronics, FPGAs and integration into powerful but usable software. Someone not afraid to question the conventional wisdom and reevaluate what is possible with modern tools.
 
-<h2 align="center">Where?</h2>
+<h2 align="center">🏰 Where?</h2>
 
 The Trinity College Dublin Ultramicroscopy Research Group, previously in the Warwick University Microscopy Group. Physically located in the Advanced Microscopy Laboratory.
 
@@ -37,7 +37,7 @@ The Trinity College Dublin Ultramicroscopy Research Group, previously in the War
   </a>
 </p>
 
-<h2 align="center">What?</h2>
+<h2 align="center">🔬 What?</h2>
     
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@ The Trinity College Dublin Ultramicroscopy Research Group, previously in the War
 
 Other experience with Matlab, TCL, C#, HTML, CSS, PHP, CUDA.
 
-<h2 align="center">How?</h2>
+<h2 align="center">📟 How?</h2>
 
 <p align="center">
   <a href="https://www.jonjppeters.com/">
@@ -78,7 +78,7 @@ Other experience with Matlab, TCL, C#, HTML, CSS, PHP, CUDA.
   </a>
 </p>
 
-<h2 align="center">When?</h2>
+<h2 align="center">⌚ When?</h2>
 <p align="center">
   Now.<br><br>Do it.
 </p>
