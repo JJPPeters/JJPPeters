@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/JJPPeters/JJPPeters/blob/main/images/jjpp_banner.svg" alt="header"/>
+  <img src="https://github.com/JJPPeters/JJPPeters/blob/main/images/banner.svg" alt="header"/>
 </div>

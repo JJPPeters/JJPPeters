@@ -6275,23 +6275,17 @@
                     <rect x="26106.5" y="-8427.59" width="5636.48" height="2691.65" style="fill:url(#_Linear3);"/>
                 </g>
                 <g transform="matrix(1.0001,0,0,1.08124,990.748,-7902.86)">
-                    <text x="27586.8px" y="300.945px" style="font-family:'Inter-Regular', 'Inter';font-size:266.667px;fill:rgb(242,242,242);">Hello!</text>
-                    <text x="26868.2px" y="617.611px" style="font-family:'Inter-Regular', 'Inter';font-size:266.667px;fill:rgb(242,242,242);">I&apos;m Dr Jon P<tspan x="28373.1px 28528.4px 28623.9px " y="617.611px 617.611px 617.611px ">ete</tspan>rs</text>
+                    <text x="27602.1px" y="299.613px" style="font-family:'Helvetica';font-size:266.667px;fill:rgb(242,242,242);">Hello!</text>
+                    <text x="26917.3px" y="616.28px" style="font-family:'Helvetica';font-size:266.667px;fill:rgb(242,242,242);">I&apos;m Dr Jon Peters</text>
                 </g>
                 <g transform="matrix(1.0001,0,0,1.08124,990.748,-7075.71)">
-                    <text x="26698.5px" y="162.813px" style="font-family:'Inter-Regular', 'Inter';font-size:133.333px;fill:rgb(242,242,242);">R<tspan x="26783px " y="162.813px ">e</tspan>sear<tspan x="27130.5px " y="162.813px ">c</tspan>h F<tspan x="27394.2px " y="162.813px ">e</tspan>llo<tspan x="27612.1px " y="162.813px ">w</tspan> in Electr<tspan x="28264.4px " y="162.813px ">o</tspan>n Micr<tspan x="28731.5px " y="162.813px ">o</tspan>scop<tspan x="29113.3px " y="162.813px ">y</tspan></text>
+                    <text x="26757.4px" y="162.147px" style="font-family:'Helvetica';font-size:133.333px;fill:rgb(242,242,242);">Research Fellow in Electron Microscopy</text>
                 </g>
                 <g transform="matrix(1.0001,0,0,1.08124,990.748,-6861.76)">
-                    <text x="27286.1px" y="122.05px" style="font-family:'Inter-Regular', 'Inter';font-size:79.167px;fill:rgb(141,164,183);">Softwar<tspan x="27578.2px " y="122.05px ">e</tspan> &amp; Har<tspan x="27850.8px " y="122.05px ">d</tspan>war<tspan x="28037px " y="122.05px ">e</tspan> De<tspan x="28207.1px 28249.6px " y="122.05px 122.05px ">ve</tspan>lopment</text>
+                    <text x="27322.6px" y="121.655px" style="font-family:'Helvetica';font-size:79.167px;fill:rgb(141,164,183);">Software &amp; Hardware Development</text>
                 </g>
                 <g transform="matrix(1.0001,0,0,1.08124,990.748,-6370.51)">
-                    <g transform="matrix(133.333,0,0,133.333,27307.2,141.747)">
-                        <path d="M0.29,-0.128L0.29,-0.597L0.369,-0.597L0.369,-0.128L0.29,-0.128ZM0.095,-0.322L0.095,-0.402L0.564,-0.402L0.564,-0.322L0.095,-0.322Z" style="fill:rgb(223,91,73);fill-rule:nonzero;"/>
-                    </g>
-                    <g transform="matrix(133.333,0,0,133.333,27395.1,141.747)">
-                        <path d="M0.29,-0.128L0.29,-0.597L0.369,-0.597L0.369,-0.128L0.29,-0.128ZM0.095,-0.322L0.095,-0.402L0.564,-0.402L0.564,-0.322L0.095,-0.322Z" style="fill:rgb(223,91,73);fill-rule:nonzero;"/>
-                    </g>
-                    <text x="27210.3px" y="141.747px" style="font-family:'Inter-Regular', 'Inter';font-size:133.333px;fill:rgb(223,91,73);">C<tspan x="27483px " y="141.747px "> </tspan>| Pyt<tspan x="27810.4px " y="141.747px ">h</tspan>on | OpenCL</text>
+                    <text x="27252.4px" y="141.082px" style="font-family:'Helvetica';font-size:133.333px;fill:rgb(223,91,73);">C++ | Python | OpenCL</text>
                 </g>
             </g>
         </g>
